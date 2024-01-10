@@ -11,6 +11,8 @@ count: false
 Create multi-cloud golden image pipelines with HCP Packer and Terraform Cloud.
 
 <!-- Presenter notes go here -->
+???
+
 Ask audience about familiarity with Packer and Terraform as separate products.
 
 ---
