@@ -6,14 +6,14 @@ name: slide1
 
 ## Slide 1
 
-Here's an example of incremental text (hit left to progress):
+There are several benefits to integrating Packer with Terraform.
 
-- List Item 1
+-  Infrastructure as Code (IaC) Synergy
 --
 
-- List Item 2
+- Streamlined Continuous Deployment
 --
 
-- List Item 3
+- Enhanced Scalability and Efficiency
 
-???
+
