@@ -2,9 +2,9 @@ layout: true
 class: img-right
 background-image: url(../../assets/images/backgrounds/HashiCorp-Content-bkg.png)
 background-size: cover
-name: slide3
+name: slide2
 
-## Slide 3
+## Slide 2
 
 ![scale:50%](./assets/logos/logo_terraform.png)
 
