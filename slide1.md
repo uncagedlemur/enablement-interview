@@ -16,4 +16,8 @@ name: slide1
 
 !(./assets/images/slide_templates/packer_terraform_example.png)
 
+???
+
+Discuss how these are the three primary reasons for integration.
+
 ---
