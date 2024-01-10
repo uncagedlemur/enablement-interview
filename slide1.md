@@ -2,9 +2,9 @@ layout: true
 class: compact
 background-image: url(../../assets/images/backgrounds/HashiCorp-Content-bkg.png)
 background-size: cover
-name: slide2
+name: slide1
 
-## Slide 2
+## Slide 1
 
 Here's an example of incremental text (hit left to progress):
 
