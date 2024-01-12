@@ -9,6 +9,6 @@ name: slide2
 - Terraform and Packer complement each other in the IaC workflow. 
 - Integrating Packer's image creation with Terraform allows for efficient handling of infrastructure changes, utilizing consistent machine images to deploy and manage infrastructure across different environment.
 
-![scale:50%](./assets/images/packer_terraform_example.png)
+![scale:50%](./assets/images/packer_terraform_pipeline.png)
 
 ---
