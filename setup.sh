@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set environment variable with GitHub username in /root/.bash_profile
-echo 'export GITHUB_USERNAME=<YourGitHubUsername>' >> /root/.bash_profile
+echo 'export GITHUB_USERNAME=uncagedlemur' >> /root/.bash_profile
 
 # Write code to config.hcl file
 cat <<EOL > config.hcl
