@@ -9,7 +9,7 @@ count: true
 
 ## There are several benefits to integrating Packer with Terraform.
 
-![scale:3%](./assets/logos/packer_terraform.png)
+![scale:10%](./assets/logos/packer_terraform.png)
 
 - Infrastructure as Code (IaC) Synergy
 
