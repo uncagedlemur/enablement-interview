@@ -7,10 +7,10 @@ count: true
 
 # Streamlined Continuous Deployment
 
-![scale:10%](./assets/images/packer_terraform_example.png)
+![scale:20%](./assets/images/packer_terraform_example.png)
 
  - Packer builds machine images that encapsulate a predefined configuration and software stack, reducing deployment complexities. 
-
+ 
  - Terraform then uses these images as a baseline for provisioning infrastructure in a repeatable and automated manner. 
 
 ???
